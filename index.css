@@ -1,0 +1,37 @@
+body{
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-color: red;
+}
+.head
+{
+	color: blue;
+}
+.blue{
+	color: green;
+}
+.container
+{
+	width: 550px;
+	height: 550px;
+	border: 2px solid black;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+input
+{
+padding: 20px;
+border-radius: 10px;
+}
+.pass
+{
+	padding: 10px;
+	margin-top: 20px;
+}
